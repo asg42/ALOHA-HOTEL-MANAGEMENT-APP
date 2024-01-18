@@ -1,5 +1,7 @@
 Welcome to Aloha Resort Management App!
 
+Download the files within the same folder.
+
 Please make sure you have Python and MySQL instslled in your device.
 Please install the following python libraries:
 -tkcalendar: pip install tkcalendar
