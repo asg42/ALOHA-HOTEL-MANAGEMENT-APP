@@ -1,6 +1,8 @@
 # ALOHA-HOTEL-MANAGEMENT-APP
 A Python GUI application (tkinter) using MySQL by Python-MySQL-connectivity. Purpose: administrative functions for new bookings, searching customers and billing of a Hotel/Resort.
 
+Download files in the same folder.
+
 Please make sure you have Python and MySQL instslled in your device.
 Please install the following python libraries:
 -tkcalendar: pip install tkcalendar
